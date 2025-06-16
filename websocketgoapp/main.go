@@ -27,7 +27,6 @@ type Message struct {
 	Recipient string `json:"recipient,omitempty"`
 	Content   string `json:"content,omitempty"`
 }
-
 var manager = ClientManager{
 	broadcast:  make(chan []byte),
 	register:   make(chan *Client),
