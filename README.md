@@ -1,7 +1,7 @@
-#Real-Time Chat App with Golang, Angular, and WebSocket
+#**Real-Time Chat App with Golang, Angular, and WebSocket**
 
-This project is a real-time chat application built using Golang on the backend, Angular 2+ on the frontend, and WebSocket for bidirectional communication.
-
+**This project is a real-time chat application built using Golang on the backend, Angular 2+ on the frontend, and WebSocket for bidirectional communication.
+**
 Features
 Real-time messaging between multiple users
 
